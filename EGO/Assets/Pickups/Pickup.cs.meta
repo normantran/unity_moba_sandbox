@@ -1,0 +1,9 @@
+fileFormatVersion: 2
+guid: c72eb383988bbdc49b25ca224d2531ba
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pickupTriggerPrefab: {fileID: 100000, guid: 86abc3b30a47f8d49a5696a31016f581,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}

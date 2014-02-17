@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: e0a9b55827ba5624caf584dfb8d10f77
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - awarenessBubble: {instanceID: 0}
+  - model: {instanceID: 0}
+  - lineOfSightPrefab: {fileID: 100000, guid: 5eba6ea1337d4ab45aec11d9efd4c677, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
